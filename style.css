@@ -11,7 +11,7 @@ main {
   height: 100vh;
 }
 
-p {
+li {
   text-decoration: underline;
   letter-spacing: 30px;
   text-align: center;
